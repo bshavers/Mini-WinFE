@@ -7,3 +7,5 @@ The personal build that I recommend can be found here:http://courses.dfironlinet
 This Github respository does not maintain the Mini-WinFE, and is only a pointer to the recommended build of Mini-WinFE.  Downloadable ISO files of WinFE are untrusted and violate the MS EULA.  You need to personally build your own WinFE to abide by the EULA.</p>
 Creating your own Mini-WinFE takes less than 10 minutes and you can have a forensically-sound, external media (CD/DVD/USB) bootable operating system that runs several Windows-based forensic software.</p>
 <img src="http://brettshavers.cc/images/easyblog_articles/553/b2ap3_large_WinFE-Infographic.jpg" alt="WinFE" height="100%" width="100%">
+#WinFE 10
+WinFE 10 is a build developed by Colin Ramsden that runs in Intel (x86, x64) and ARM systems. The WinFE 10 framework with build instruction be downloaded free from https://www.winfe.net.
